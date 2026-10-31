@@ -133,7 +133,7 @@ python3 quick_demo.py
 ```
 To absolutely enforce execution in case of issues: make sure to cd in the directory where the source code is at (e.g. `cd compliance-inspector`) and re-inforce the env variables:
 ```
-NIM_MODEL_NAME="nvidia/cosmos3-nano-reasoner" OPENAI_API_KEY=“nvapi-loooooooooongkey" NVIDIA_API_KEY="nvapi-nvapi-loooooooooongkey" python3 quick_demo.py 
+NIM_MODEL_NAME="nvidia/cosmos3-nano-reasoner" OPENAI_API_KEY="nvapi-loooooooooongkey" NVIDIA_API_KEY="nvapi-nvapi-loooooooooongkey" python3 quick_demo.py 
 ```
 To run the full demo
 ```
