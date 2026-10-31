@@ -13,7 +13,7 @@ A video-based compliance pipeline that uses NVIDIA AI models to verify whether a
 ---
 
 ## Main architecture considerations
-**The tool is developed using exclusively NVIDIA tools and HPE-powered infrastructure.**
+**The tool is developed using exclusively NVIDIA tools and HPE-powered infrastructure, meaning the pipeline was tested on HPE infrastructure.**
 
 In a normal setup, to avoid memory collisions, one would deploy for example Nemotron (LLM) and Cosmos3 on different containers.
 
