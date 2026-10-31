@@ -1,5 +1,12 @@
 # Visual compliance inspector
 
+🤖 🤖 🤖 
+
+**The initial project was born from a hackathon challenge that included a set of standard instructions and resulted in some guidelines. The current project is a CLI pipeline completly designed by me. For the sake of authenticity and transparency, I kept the original hackathon instructions. Subsequence arichtectural choices, changes and implementations were only made by the current user.** 
+
+🤖 🤖 🤖 
+---
+
 ### Summary of instructions
 Can AI tell whether a procedure was actually followed? Build a system that watches a video of a real-world process and determines whether the required steps were completed correctly.
 
